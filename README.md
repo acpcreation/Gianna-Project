@@ -29,7 +29,8 @@ npm run build
 - Run commands in the local terminal by selecting `Terminal` and then `New Nerminal` in the VS Code menu. New terminal will appear in bottom of the window.
 - Running the app will generate a `localhost` url you can access in the browser to see the running app.
 - `Command + s` will save the file your working on and automatically reload. 
-
+- Images go in the `public > images` directory.
+- The main files to edit are in the `src > views / components` folders.
 
 To upload changes to GitHub run a few commands:
 ```
